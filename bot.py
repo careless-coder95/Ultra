@@ -23,7 +23,7 @@ import requests
 BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # BotFather से token paste करो
 
 # MongoDB Configuration
-MONGODB_URL = "mongodb+srv://username:password@cluster.mongodb.net/ultra_guardians"
+MONGODB_URL = ""
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -75,7 +75,7 @@ DEFAULT_SETTINGS = {
 }
 
 DEFAULT_BAD_WORDS = [
-    'badword1', 'badword2', 'galiword1', 'galiword2'
+    'madharchod', 'madharxod', 'mkc', 'randi'
 ]
 
 # ============================================
